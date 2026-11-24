@@ -63,6 +63,10 @@ gems:
   - name: opentelemetry-propagator-b3
     directory: propagator/b3
 
+  - name: opentelemetry-propagator-carrier-env
+    directory: propagator/carrier-env
+    version_rb_path: lib/opentelemetry/propagator/carrier_env/version.rb
+
   - name: opentelemetry-propagator-jaeger
     directory: propagator/jaeger
 

@@ -1,0 +1,9 @@
+--no-private
+--title=OpenTelemetry Environment Variable Carrier
+--markup=markdown
+--main=README.md
+./lib/opentelemetry/propagator/carrier_env/**/*.rb
+./lib/opentelemetry/propagator/carrier_env.rb
+-
+README.md
+CHANGELOG.md

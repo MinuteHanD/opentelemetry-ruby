@@ -31,6 +31,7 @@ jobs:
           - opentelemetry-metrics-api
           - opentelemetry-metrics-sdk
           - opentelemetry-propagator-b3
+          - opentelemetry-propagator-carrier-env
           - opentelemetry-propagator-jaeger
           - opentelemetry-registry
           - opentelemetry-sdk
